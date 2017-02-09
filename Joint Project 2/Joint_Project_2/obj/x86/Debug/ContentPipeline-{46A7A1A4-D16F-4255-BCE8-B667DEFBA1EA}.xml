@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>blueSquare.jpg</Source>
+      <Name>blueSquare</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\aaron\Desktop\Joint Project 2\Joint Project 2\Joint_Project_2\bin\x86\Debug\Content\blueSquare.xnb</Output>
+      <Time>2016-04-02T14:44:54+01:00</Time>
+    </Item>
+    <Item>
+      <Source>greenSquare.png</Source>
+      <Name>greenSquare</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\aaron\Desktop\Joint Project 2\Joint Project 2\Joint_Project_2\bin\x86\Debug\Content\greenSquare.xnb</Output>
+      <Time>2016-04-02T14:44:54+01:00</Time>
+    </Item>
+    <Item>
+      <Source>redSquare.png</Source>
+      <Name>redSquare</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\aaron\Desktop\Joint Project 2\Joint Project 2\Joint_Project_2\bin\x86\Debug\Content\redSquare.xnb</Output>
+      <Time>2016-04-02T14:44:54+01:00</Time>
+    </Item>
+    <Item>
+      <Source>emptySquare.jpg</Source>
+      <Name>emptySquare</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\aaron\Desktop\Joint Project 2\Joint Project 2\Joint_Project_2\bin\x86\Debug\Content\emptySquare.xnb</Output>
+      <Time>2016-04-02T14:54:00+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\aaron\Desktop\Joint Project 2\Joint Project 2\Joint_Project_2\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2016-04-16T17:29:18.1922226+01:00</Time>
+    </Item>
+    <Item>
+      <Source>eye.png</Source>
+      <Name>eye</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\aaron\Desktop\Joint Project 2\Joint Project 2\Joint_Project_2\bin\x86\Debug\Content\eye.xnb</Output>
+      <Time>2016-04-17T17:17:04.0521373+01:00</Time>
+    </Item>
+    <Item>
+      <Source>img-thing.jpg</Source>
+      <Name>img-thing</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\aaron\Desktop\Joint Project 2\Joint Project 2\Joint_Project_2\bin\x86\Debug\Content\img-thing.xnb</Output>
+      <Time>2016-04-17T17:48:04.631743+01:00</Time>
+    </Item>
+    <Item>
+      <Source>eye image.png</Source>
+      <Name>eye image</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\aaron\Desktop\Joint Project 2\Joint Project 2\Joint_Project_2\bin\x86\Debug\Content\eye image.xnb</Output>
+      <Time>2016-04-17T17:52:31.4583274+01:00</Time>
+    </Item>
+    <Item>
+      <Source>White_square.png</Source>
+      <Name>White_square</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\aaron\Desktop\Joint Project 2\Joint Project 2\Joint_Project_2\bin\x86\Debug\Content\White_square.xnb</Output>
+      <Time>2016-04-17T19:07:11.0798833+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{46A7A1A4-D16F-4255-BCE8-B667DEFBA1EA}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\aaron\Desktop\Joint Project 2\Joint Project 2\Joint_Project_2Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\aaron\Desktop\Joint Project 2\Joint Project 2\Joint_Project_2\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\aaron\Desktop\Joint Project 2\Joint Project 2\Joint_Project_2\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\aaron\Desktop\Joint Project 2\Joint Project 2\Joint_Project_2\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2016-01-31T23:10:31.0194294+00:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,3 @@
+C:\Users\aaron\OneDrive\Documents\Joint Project 2\Joint Project 2\Joint_Project_2Content\obj\x86\Debug\Joint_Project_2Content.contentprojResolveAssemblyReference.cache
+E:\Joint Project 2\Joint Project 2\Joint_Project_2Content\obj\x86\Debug\Joint_Project_2Content.contentprojResolveAssemblyReference.cache
+C:\Users\aaron\Desktop\Joint Project 2\Joint Project 2\Joint_Project_2Content\obj\x86\Debug\Joint_Project_2Content.contentprojResolveAssemblyReference.cache
